@@ -7,7 +7,11 @@ Database Course](https://www.freecodecamp.org/learn/relational-databases-v9).
 
 ```
 fcc-relational-db
-└── 01-celestial-bodies
-    └── universe.sql
+├── 01-celestial-bodies
+│   └── universe.sql
+└── 02-world-cup
+    ├── insert.sh
+    ├── queries.sh
+    └── worldcup.sql
 
 ```
