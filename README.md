@@ -9,9 +9,15 @@ Database Course](https://www.freecodecamp.org/learn/relational-databases-v9).
 fcc-relational-db
 ├── 01-celestial-bodies
 │   └── universe.sql
-└── 02-world-cup
-    ├── insert.sh
-    ├── queries.sh
-    └── worldcup.sql
-
+├── 02-world-cup
+│   ├── insert.sh
+│   ├── queries.sh
+│   └── worldcup.sql
+├── 03-salon-scheduler
+│   ├── salon.sh
+│   └── salon.sql
+├── 04-periodic-table
+│   ├── element.sh
+│   └── periodic_table.sql
+└── README.md
 ```
